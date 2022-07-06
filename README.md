@@ -56,4 +56,4 @@ The application fetches the data from YouTube, analyzes it, and then displays it
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://opensource.org/licenses/MIT)
