@@ -11,6 +11,7 @@ YouTube client app for streaming videos for Android and IOS.
 
 ![App Screenshot](https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/1.jpg)
 
+[<img src="https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/1.jpg" width=280>](https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/1.jpg)
 [<img src="https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/2.jpg" width=280>](https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/2.jpg)
 [<img src="https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/3.jpg" width=280>](https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/3.jpg)
 [<img src="https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/4.jpg" width=280>](https://raw.githubusercontent.com/modwedar/FlutterTube/master/dev/phoneScreenshots/4.jpg)
