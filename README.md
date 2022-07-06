@@ -47,6 +47,7 @@ The application fetches the data from YouTube, analyzes it, and then displays it
 - [ ] Download as video or audio
 - [ ] Subscribe channel from video page
 - [ ] View and search watch history
+- [ ] Video minimizing
 - [ ] Get notifications about new videos from channels you're subscribed to
 - [ ] Show/hide comments
 - [ ] Downloads page
