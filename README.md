@@ -33,6 +33,7 @@ The application fetches the data from YouTube, analyzes it, and then displays it
 
 - Watch youtube videos without Ads
 - Watch the video in multiple quality
+- Get trending videos, music, gaming, and movies
 - Speed up and slow down videos
 - Next/Related videos
 - Search and watch playlists
